@@ -1,0 +1,78 @@
+*{
+	box-sizing: border-box;
+}
+
+body
+{
+	margin: 0px;
+	font-family: sans-serif;
+}
+.formulario
+{
+	width: 500px;
+	max-width: 100%;
+	margin: auto;
+	margin-top: 20px;
+	padding: 10px;
+	box-shadow: 0 0 20px 1px rgba(0,0,0,0.3);
+	position: relative;
+}
+.titulo
+{
+	text-align: center;
+	margin-top: 5px;
+	color: rgba(0,0,0,0.8);
+}
+.tipodoc
+{
+	padding: 20px;
+	background: rgba(180,180,180,0.1);
+	margin-bottom: 40px;
+}
+.label, .input, .enviar, .reset
+{
+	display: block;
+	width: 100%;
+	font-size: 1.3em;
+}
+.input
+{
+	padding: 20px;
+	background: rgba(0,0,0,0.1);
+	border: 1px solid rgba(0,0,0,0.3);
+	margin-bottom: 40px;
+}
+.input:focus + .label
+{
+	margin-top: -135px;
+}
+.label
+{
+	padding-left: 15px;
+	position: absolute;
+	margin-top: -85px;
+	z-index: -20;
+	color: rgba(0,0,0,0.5);
+	transition: all 0.2s;
+}
+.enviar, .reset
+{
+	background: rgba(0,0,0,0.6);
+	color: white;
+	padding: 2px 2px;
+	cursor: pointer;
+	margin-bottom: 5px;
+}
+.registro
+{
+	color: black;
+
+}
+.fijar
+{
+	margin-top: -135px;
+}
+input:invalid 
+{
+	box-shadow: 0 0 4px 0px red;
+}

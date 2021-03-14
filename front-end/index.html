@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Prueba GearElectric S.A.S</title>
+</head>
+<body>
+    <form action="" method="POST" class="formulario" id="formulario" >
+        <h1 class="titulo">Registro</h1>
+
+        <input type="text" name="nombre" spellcheck="true" class="input" maxlength="100" id="nombre"autofocus required>
+        <label for="" class="label">Nombre</label>
+        
+        <p class="input">
+            Tipo de Documento:
+            <label><input type="radio"  name="tipo_documento" value="CC" required> C.C</label>
+            <label><input type="radio"  name="tipo_documento" value="TI" required> T.I</label>      
+        </p> 
+          
+        <input type="text" name="documento" class="input" maxlength="20" id="documento" required>
+        <label for="" class="label">Documento</label>
+        
+
+        <input type="text" name="telefono" class="input" maxlength="10" id="tele" required>
+        <label for="" class="label">Telefono</label>
+        
+
+        <input type="email" name="correo" class="input" id="mail" required >
+        <label for="" class="label">Correo</label>  
+        
+        <p> 
+            <input type="submit" class="enviar">
+            <input type="reset" class="reset">
+        </p>
+        <a href="http://localhost/ApiGearElectric/back-end/index.php" class="registro">Ver Registro</a>
+        <input type="hidden" id="formuId" name="formuId" value="3487">
+    </form>
+    <script src="app.js"></script>
+</body>
+</html>
