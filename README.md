@@ -59,11 +59,11 @@
 
 ![consultaregistro](https://user-images.githubusercontent.com/70559900/111084867-8c860200-84e2-11eb-91d9-e4f0d42e19c8.PNG)
 
-6) <h4>Busqueda de usuario registrado por tipo de documento</h4>
+6) <h4>Busqueda de usuario registrado por nombre</h4>
 
 ![consultaregistro3](https://user-images.githubusercontent.com/70559900/111084874-99a2f100-84e2-11eb-8568-77f124b47821.PNG)
 
-7) <h4>Busqueda de usuario registrado por nombre</h4>
+7) <h4>Busqueda de usuario registrado por tipo de documento</h4>
 
 ![consultaregistro2](https://user-images.githubusercontent.com/70559900/111084879-a1629580-84e2-11eb-8bc1-61f29a9b57af.PNG)
 
