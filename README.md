@@ -1,8 +1,13 @@
-# API_GearElectric
- Registro
+<H1 align="center"> API_GearElectric </H1>
+<br>
+<h2 align="center">Registro</h2>
+<br>
+<h2>(Nivel 1 y 2)</h2>
+<br>
 
+- <h3>Lenguaje y versión</h3>
 (Nivel 1 y 2)
-● MARIADB 10.4.17Lenguaje y versión
+● MARIADB 10.4.17
 HTML VERSION 5
 PHP VERSION 7.4.15
 
