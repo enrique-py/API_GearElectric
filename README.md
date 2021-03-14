@@ -4,7 +4,7 @@
 <br>
 <h3>Lenguaje y versión</h3>
 
-* MARIADB 10.4.17
+* * MARIADB 10.4.17
 * HTML VERSION 5
 * PHP VERSION 7.4.15
 
