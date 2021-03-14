@@ -33,9 +33,19 @@
 
 - <h3>Servicios API, modo consumo y respuestas</h3>
 
-
 <H3 align="left"> Testing con Postman </H3>
 
+1) <h4>Registro API: Metodo:POST</h4>
+
+![test1](https://user-images.githubusercontent.com/70559900/111085763-be00cc80-84e6-11eb-9f3e-5dab8b2297df.PNG)
+
+2) <h4>Error API: Metodo:POST</h4>
+
+![errorbd](https://user-images.githubusercontent.com/70559900/111085978-e3daa100-84e7-11eb-9709-6385fc506412.PNG)
+
+3) <h4>Usuarios Registrados: Metodo:GET</h4>
+
+![test2](https://user-images.githubusercontent.com/70559900/111086037-403dc080-84e8-11eb-9c7d-2425169103ec.PNG)
 
 - <h3>Solución ejecutada</h3>
 
