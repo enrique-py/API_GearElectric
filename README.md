@@ -41,25 +41,29 @@
 
 1) <h4>Registro Pagina index.html</h4>
 
-![validacion1](https://user-images.githubusercontent.com/70559900/111084827-5d6f9080-84e2-11eb-9bb2-be94e3a5396b.PNG)
+![index](https://user-images.githubusercontent.com/70559900/111085096-d28f9580-84e3-11eb-8fe1-834b037d1006.PNG)
 
 2) <h4>Generando un error de validación en telefono</h4>
 
-![validacion2](https://user-images.githubusercontent.com/70559900/111084814-4cbf1a80-84e2-11eb-924d-20cfc93e3056.PNG)
+![validacion1](https://user-images.githubusercontent.com/70559900/111084827-5d6f9080-84e2-11eb-9bb2-be94e3a5396b.PNG)
 
 3) <h4>Generando un error de validación en correo</h4>
 
-![validacionok](https://user-images.githubusercontent.com/70559900/111084832-695b5280-84e2-11eb-9986-9ef3af744737.PNG)
+![validacion2](https://user-images.githubusercontent.com/70559900/111084814-4cbf1a80-84e2-11eb-924d-20cfc93e3056.PNG)
 
 4) <h4>Registro Exitoso</h4>
 
-![consultaregistro](https://user-images.githubusercontent.com/70559900/111084867-8c860200-84e2-11eb-91d9-e4f0d42e19c8.PNG)
+![validacionok](https://user-images.githubusercontent.com/70559900/111084832-695b5280-84e2-11eb-9986-9ef3af744737.PNG)
 
 5) <h4>Vista de usuarios registrados al evento</h4>
 
+![consultaregistro](https://user-images.githubusercontent.com/70559900/111084867-8c860200-84e2-11eb-91d9-e4f0d42e19c8.PNG)
+
+6) <h4>Busqueda de usuario registrado por tipo de documento</h4>
+
 ![consultaregistro3](https://user-images.githubusercontent.com/70559900/111084874-99a2f100-84e2-11eb-8568-77f124b47821.PNG)
 
-6) <h4>Busqueda de usuario registrado</h4>
+7) <h4>Busqueda de usuario registrado por nombre</h4>
 
 ![consultaregistro2](https://user-images.githubusercontent.com/70559900/111084879-a1629580-84e2-11eb-8bc1-61f29a9b57af.PNG)
 
