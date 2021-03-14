@@ -8,10 +8,19 @@
 * HTML VERSION 5
 * PHP VERSION 7.4.15
 
-● Instrucciones para ejecutar la solución. Sea lo más claro y completo posible
-● El motor de base de datos escogido
+
+- <h3>Instrucciones para ejecutar la solución</h3>
+
+- <h3>Motor de base de datos escogido</h3>
+
 MYSQL
-● Servicios de la API indicando modo de consumo y posibles respuestas
-● Pantallazos de la solución ejecutada
-(Nivel 3)
-● URL de la solución
+
+- <h3>Servicios API, modo consumo y respuestas</h3>
+
+<H3 align="left"> Testing with Postman </H3>
+
+- <h3>Solución ejecutadas</h3>
+
+<h2 align="left">Registro (Nivel 3) </h2>
+
+URL de la solución
