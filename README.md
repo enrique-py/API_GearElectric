@@ -2,12 +2,11 @@
 <br>
 <h2 align="left">Registro (Nivel 1 y 2) </h2>
 <br>
-- <h3>Lenguaje y versión</h3>
-MARIADB 10.4.17
+<h3>Lenguaje y versión</h3>
 
-HTML VERSION 5
-
-PHP VERSION 7.4.15
+* MARIADB 10.4.17
+* HTML VERSION 5
+* PHP VERSION 7.4.15
 
 ● Instrucciones para ejecutar la solución. Sea lo más claro y completo posible
 ● El motor de base de datos escogido
