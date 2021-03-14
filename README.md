@@ -1,6 +1,6 @@
 <H1 align="center"> API_GearElectric </H1>
 <br>
-<h2 align="left">Registro (Nivel 1 y 2) </h2>
+<h2 align="left"> Registro (Nivel 1 y 2) </h2>
 <br>
 
 - <h3>Lenguaje y versión</h3>
@@ -18,10 +18,10 @@ MYSQL
 
 - <h3>Servicios API, modo consumo y respuestas</h3>
 
-<H3 align="left"> Testing with Postman </H3>
+<H3 align="left"> Testing con Postman </H3>
 
-- <h3>Solución ejecutadas</h3>
+- <h3>Solución ejecutada</h3>
 
-<h2 align="left">Registro (Nivel 3) </h2>
+<h2 align="left"> Registro (Nivel 3)</h2>
 
 URL de la solución
