@@ -5,10 +5,9 @@
 
 - <h3>Lenguaje y versión</h3>
 
-MARIADB 10.4.17
-HTML VERSION 5
-PHP VERSION 7.4.15
-
+`MARIADB 10.4.17`
+`HTML5`
+`PHP 7.4.15`
 
 - <h3>Instrucciones para ejecutar la solución</h3>
 
