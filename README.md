@@ -18,9 +18,9 @@ MYSQL
 
 - <h3>Servicios API, modo consumo y respuestas</h3>
 
-<H3 align="left"> Testing con Postman </H3>
-
 - <h3>Solución ejecutada</h3>
+
+<H3 align="left"> Testing con Postman </H3>
 
 <h2 align="left"> Registro (Nivel 3)</h2>
 
